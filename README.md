@@ -1,5 +1,7 @@
 # lab-setup
 
+
+
 # Step One:
 First you need to have a hypervisor (eg. vmware, virtualbox). This is the target machine for the lab, make sure it is running a regular linux operating system or something like metasploitable. 
 
