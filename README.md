@@ -32,4 +32,4 @@ Use a Host-Only network so it doesn't interfere with home wifi (**IMPORTANT**)
 ---
 
 ## Note
-this is hopefully going to improve as I learn more in the future  
+This is hopefully going to improve as I learn more in the future  
