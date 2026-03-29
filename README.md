@@ -20,4 +20,4 @@ Use a Host-Only network so it doesn't interfere with home wifi (IMPORTANT)
 - 512 MB of Memory
 - 1 Core
 
-# Note this is hopefully going to improve as I learn more in the future
+- Note this is hopefully going to improve as I learn more in the future
